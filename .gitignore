@@ -1,0 +1,13 @@
+WebView2Unity/Library/
+WebView2Unity/Logs/
+WebView2Unity/obj/
+WebView2Unity/Temp/
+WebView2Unity/UserSettings/
+WebView2Unity/.idea/
+WebView2Unity/Assembly-CSharp.csproj
+WebView2Unity/WebView2Unity.sln
+
+WebView2Forms/WebView2Forms/bin/
+WebView2Forms/WebView2Forms/obj/
+WebView2Forms/packages/
+WebView2Forms/.idea/
